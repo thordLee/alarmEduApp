@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936753347814",
+    "firebase_url": "https://alarmeduapp.firebaseio.com",
+    "project_id": "alarmeduapp",
+    "storage_bucket": "alarmeduapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936753347814:android:41b6aaab72e8ca47",
+        "android_client_info": {
+          "package_name": "app.alarmedu.com.alarmeduapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936753347814-olke1det3gtp9pbss3o86fh1grhigpqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.alarmedu.com.alarmeduapp",
+            "certificate_hash": "9f80205c186458631077c04e1d0ce140b147f668"
+          }
+        },
+        {
+          "client_id": "936753347814-4i3nvbuijs9a1ufd2hu8vvlpa0cpggj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-bsG2j6_3cFqfRSsOGpOK2rT9CkCwurY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936753347814-4i3nvbuijs9a1ufd2hu8vvlpa0cpggj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
